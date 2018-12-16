@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/pic">
+        <file>mainlogo.png</file>
+        <file>mainicon.ico</file>
+        <file>close.ico</file>
+        <file>mini.ico</file>
+        <file>show.ico</file>
+    </qresource>
+    <qresource prefix="/new/qssf">
+        <file>firstqss.qss</file>
+        <file>fifthqss.qss</file>
+        <file>forthqss.qss</file>
+        <file>secondqss.qss</file>
+        <file>thirdqss.qss</file>
+    </qresource>
+</RCC>

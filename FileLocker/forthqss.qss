@@ -1,0 +1,22 @@
+﻿/*被主窗覆盖的 只剩标题栏*/
+#mainshow{
+    background-color: rgb(210,70,70);
+border-radius:15px
+}
+
+#mainToolBar{
+background-color: rgb(255,70,70);
+border-color: rgb(255,70,70);
+}
+
+/*主窗体*/
+#centralWidget{
+background-color: rgb(210,70,70);
+
+}
+.QTextEdit{
+background-color: rgb(255, 70, 70);
+}
+#statusBar{
+background-color: rgb(210,70,70);
+}

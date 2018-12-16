@@ -1,0 +1,24 @@
+﻿QMenuBar{
+background-color: rgb(255, 255, 255);
+}
+#mainToolBar{
+background-color: rgb(255,255,255);
+border-color: rgb(255,255,255);
+}
+
+/*主窗体*/
+#centralWidget{
+background-color: rgb(255,255,255);
+
+}
+#statusBar{
+background-color: rgb(255,255,255);
+
+}
+
+/*被主窗覆盖的 只剩标题栏*/
+#mainshow{
+    background-color: rgb(255,255,255);
+border-radius:15px
+}
+
